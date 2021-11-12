@@ -10,8 +10,8 @@
         "ultroid"
     ],
     "repository": "https://github.com/killersparrow0/Ultroid",
-    "website": "https://ultroid.tech",
-    "success_url": "https://t.me/TheUltroid",
+    "website": "https://t.me/meenu_filter_bot",
+    "success_url": "https://t.me/meenu_filter_bot",
     "stack": "container",
     "env": {
         "API_ID": {
