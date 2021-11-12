@@ -9,7 +9,7 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/killersparrow0/Ultroid.git",
+    "repository": "https://github.com/killersparrow0/Ultroid",
     "website": "https://ultroid.tech",
     "success_url": "https://t.me/TheUltroid",
     "stack": "container",
